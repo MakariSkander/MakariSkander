@@ -1,12 +1,14 @@
 # **Hi there, I'm Skandar Makari 👋**
 
-**Microelectronics Engineer | Embedded Systems | Robotics | Electronics**
+**Master's student in Electronics | Embedded Systems | Robotics**
 
-I'm an engineer in microelectronics with a background in embedded systems, electronics, robotics, and automation. I'm interested in developing practical engineering solutions that combine hardware, software, and intelligent control systems.
+🔎 Looking for an apprenticeship (*alternance*) in electronics and embedded systems in France.
+
+I'm a Master's student in electronics with a background in embedded systems, robotics, and automation. I'm interested in developing practical engineering solutions that combine hardware, software, and intelligent control systems.
 
 ## **Education**
 
-**Master's Degree in Electronics, Electrical Engineering and Automation (EEA/TSI)** — Université de Bourgogne, Dijon, France (Currently studying)
+**Master's Degree in Electronics, Electrical Engineering and Automation (EEA/TSI)** — Université Bourgogne Europe, Dijon, France (2026 – 2028)
 
 **Master's Degree in Embedded Systems** — Faculty of Sciences of Monastir, Tunisia
 
@@ -22,6 +24,16 @@ I'm an engineer in microelectronics with a background in embedded systems, elect
 - **Communication Protocols:** UART, I²C, SPI, CAN, MQTT
 - **Development Tools:** Git, Linux, STM32CubeIDE, CMake
 
+## **Projects**
+
+| Project | Description | Tech |
+|---|---|---|
+| [AR4 Robotic Arm](https://github.com/MakariSkander/ar4_ros_driver-main) | Integration and control of a 6-axis robotic arm (internship at SOTMO) | Teensy 4.1, stepper drivers, ROS 2, C++ |
+| [Aquaculture Water Quality Monitoring](https://github.com/MakariSkander/Aquaculture-Monitoring-App) | IoT system to monitor fish-farm water: pH, temperature, turbidity, oxygen (internship at Exypnotech) | STM32, LoRa, Raspberry Pi, Node.js, React |
+| [OrangeSense](https://github.com/MakariSkander/Orange_Yield_Estimation) | Mobile app for drone-based orange detection and yield tracking | YOLO, React Native, Node.js |
+| [Classroom Projects](https://github.com/MakariSkander/classroom_project) | Smart vehicle voice assistant (Raspberry Pi, STM32, CAN), KNN in C++, encoding | Python, C++, Whisper, Llama |
+| [Best Hand](https://github.com/MakariSkander/simulation_matlab) | Bionic hand: SolidWorks design and Simulink simulation | SolidWorks, MATLAB/Simulink |
+
 ## **Career Goals**
 
 I'm interested in opportunities in embedded systems, microelectronics, robotics, electronics, and automation, where I can apply my technical skills and continue developing as an engineer.
@@ -36,7 +48,7 @@ I'm interested in opportunities in embedded systems, microelectronics, robotics,
 ## **Contact Information**
 
 - **Email:** makariskandar@gmail.com
-- **Phone:** 0746510063
+- **Phone:** 07 46 51 00 63
 - **LinkedIn:** Skandar Makari
-- **GitHub:** MakariSkander
+- **GitHub:** [MakariSkander](https://github.com/MakariSkander)
 - **Location:** Dijon, France
